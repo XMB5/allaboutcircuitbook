@@ -1,7 +1,7 @@
 # allaboutcircuitbook
 
-This program downloads the fantastic [electric circuit textbooks](https://www.allaboutcircuits.com/textbook/)
-from [all about circuits](https://www.allaboutcircuits.com/) into convenient epub files.
+This program compiles the fantastic [electric circuit textbooks](https://www.allaboutcircuits.com/textbook/)
+from [all about circuits](https://www.allaboutcircuits.com/) into convenient ebooks.
 Pre-generated epubs can be found in the books directory.
 
 Tony R. Kuphaldt wrote volumes one through five of these books.
