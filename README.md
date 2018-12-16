@@ -4,7 +4,9 @@ This program compiles the fantastic [electric circuit textbooks](https://www.all
 from [all about circuits](https://www.allaboutcircuits.com/) into convenient ebooks.
 Pre-generated epubs can be found in the books directory.
 
-Tony R. Kuphaldt wrote volumes one through five of these books.
+Tony R. Kuphaldt wrote volumes one through five.
+All About Circuit contributors wrote _Practical Guide to Radio-Frequency Analysis and Design_.
+
 All of the textbooks are provided under the design science license.
 A copy of this license is located in the `books` directory.
 
